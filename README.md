@@ -1,6 +1,6 @@
 # CPP06
 (C++ casts)
-## Grade 100/100
+## Grade: 100/100
 ![cpp06](https://github.com/user-attachments/assets/1db12049-86dd-4861-afb5-5624fd7729fb)
 
 ## Overview
